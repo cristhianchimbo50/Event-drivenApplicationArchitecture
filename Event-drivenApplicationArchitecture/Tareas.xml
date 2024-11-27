@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tareas>
+  <Tarea>
+    <Id>1</Id>
+    <Descripcion>Finalizar modulo de ventas</Descripcion>
+    <Completada>false</Completada>
+  </Tarea>
+  <Tarea>
+    <Id>2</Id>
+    <Descripcion>Actualizar software del servidor</Descripcion>
+    <Completada>true</Completada>
+  </Tarea>
+  <Tarea>
+    <Id>4</Id>
+    <Descripcion>Reparar modulo de ventas</Descripcion>
+    <Completada>false</Completada>
+  </Tarea>
+</Tareas>
